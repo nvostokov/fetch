@@ -1,4 +1,4 @@
-/* let url = 'http://78.25.110.43:5566/ISAPI/Streaming/channels/402/picture?snapShotImageType=JPEG';
+/* let url = '//78.25.110.43:5566/ISAPI/Streaming/channels/402/picture?snapShotImageType=JPEG';
 
 let options = [
     rtsp, 
