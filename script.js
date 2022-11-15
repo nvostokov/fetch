@@ -16,7 +16,7 @@ let jpg = fetch(url, {
 
 
  */
-let response = fetch('http://78.25.110.43:5566/ISAPI/Streaming/channels/402/picture?snapShotImageType=JPEG', {method:'GET', 
+let response = await fetch('http://78.25.110.43:5566/ISAPI/Streaming/channels/402/picture?snapShotImageType=JPEG', {method:'GET', 
 headers: {'Authorization': 'Basic ' + btoa('rtsp:RtSp_mdu22')}});
 
 
